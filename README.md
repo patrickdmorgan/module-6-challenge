@@ -4,7 +4,7 @@ The challenge was to use third-party APIs which allow developers to access their
 
 This app is aimed towards travelers who want to see the weather outlook for multiple cities, so that they can plan a trip accordingly.
 
-Explore the app here: 
+Explore the app here: https://patrickdmorgan.github.io/module-6-challenge/
 
 ## Installation
 ```
@@ -26,9 +26,9 @@ See screenshot below of the application:
 
 ## Key Checks Included ensuring the following:
 Given a weather dashboard with form inputs:
-1. When user searches for a city, then user is presented with current and future conditions for that city and that city is added to the search history
-2. When user views current weather conditions for that city, then user is presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
-3. When user views the UV index, then user is presented with a color that indicates whether the conditions are favorable, moderate, or severe
-4. When user views future weather conditions for that city, then user is presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity
-5. When user clicks on a city in the search history, then user is again presented with current and future conditions for that city
-6. When user opens the weather dashboard, then user is presented with the last searched city forecast
+1. When a user searches for a city, the user is presented with current conditions and a 5-day forecast.  That city is then added to the search history.
+2. When a user views the current weather conditions for that city, thee user is presented with the city name, the date, and an icon representation of weather conditions, temperature, humidity, wind speed, and UV index.
+3. When a user views the UV index, the user is presented with a color which indicates if the conditions are favorable, moderate, or severe.
+4. When a user views future weather conditions for that city, the user is presented with a 5-day forecast that displays the date, an icon which represents weather conditions, temperature, and humidity.
+5. When a user clicks on a city in the search history, the user is again presented with current and future conditions for that city.
+6. When a user opens the weather dashboard, the user is presented with the last searched city.
